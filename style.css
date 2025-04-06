@@ -1,6 +1,11 @@
 /* style.css */
 p {
-    font-size: 24px;
+    font-size: 32px;
+}
+
+h1 {
+    color: blue;
+    font-style: italic;
 }
 h1 {
     color: yellow;
